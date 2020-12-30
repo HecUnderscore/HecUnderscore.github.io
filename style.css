@@ -1,0 +1,12 @@
+body {
+    color:white;
+    background:#282a36;
+
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    color:lightgray;
+}
